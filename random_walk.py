@@ -112,3 +112,8 @@ class RandomWalk:
     def show() -> None:
         """Show the random walk graph."""
         plt.show()
+
+    @staticmethod
+    def close() -> None:
+        """Close the random walk graph."""
+        plt.close()
