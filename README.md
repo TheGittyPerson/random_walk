@@ -1,4 +1,4 @@
-# RandomWalk <sub><sup>v1.0.0</sup></sub>
+# RandomWalk
 
 This is a simple Python simulation API that generates some beautiful random walks using the Matplotlib library.
 
